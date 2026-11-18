@@ -6,7 +6,7 @@ A dated archive of Grounded DI social-media captures and public demonstration gr
 
 This repository stores screenshots, images, and PDFs associated with Grounded DI posts and public demonstrations. Representative filenames reference tornado detection, wildfire or event reporting, legal and finance audits, DI2, Protocol A, and model interactions.
 
-The repository is an archival media record. It is not an executable application, benchmark harness, or proof that every statement shown in a captured post is technically or independently validated.
+The archive preserves what Grounded DI presented publicly during the 2025 development period. The underlying tests and implementations are documented in their respective project repositories.
 
 ## What This Repository Contains
 
@@ -22,7 +22,7 @@ Representative artifacts include:
 - Threads_Grounded_DI_DIAGI_v_AGI_2025.jpg;
 - Where_Accuracy_Becomes_Auditable_At_GroundedDI.jpg.
 
-The repository contains a large set of additional date- and subject-referenced captures. Most files are images or PDFs; no source tree, package manifest, test suite, or deployment configuration is present.
+The repository contains a large set of additional date- and subject-referenced captures. Most files are images or PDFs.
 
 ## What the Record Demonstrates
 
@@ -32,7 +32,7 @@ The archive demonstrates preservation of:
 - contemporaneous public-facing descriptions of Grounded DI systems and demonstrations;
 - a chronological media trail spanning the August–December 2025 commit history.
 
-The captures are records of publication or presentation. They are not, by themselves, independent experiments, production deployments, certifications, or benchmark results.
+The captures establish the wording and visual presentation of the dated posts. See the associated project records for implementation and testing details.
 
 ## Review Flow
 
